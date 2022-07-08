@@ -6,6 +6,24 @@ The purpose of the analysis is to get more information about temperature trends 
 i) Rainfall analysis for June and December for 2010-2017;
 ii) Temperature analysis for June and December for 2010-2017.
 
+# Resources
+Dependencies:
+* pandas
+* numpy
+* matplotlib.pyplot
+* sqlalchemy
+* psycopg2
+* datetime
+
+Languages:
+* Python SQL toolkit and Object Relational Mapper
+* SQL
+
+Software:
+* SQL
+* Flask Web Server
+* Jupyter Notebook
+
 # Results.
 # Differences in weather between June and December.
 The first 2 charts below show the temperature statistics for June and December.
